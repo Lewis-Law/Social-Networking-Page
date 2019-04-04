@@ -1,0 +1,7 @@
+[16-Sep-2017 09:41:20 UTC] PHP Warning:  POST Content-Length of 9185136 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Sep-2017 09:42:20 UTC] PHP Warning:  POST Content-Length of 9185136 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Sep-2017 09:45:50 UTC] PHP Warning:  POST Content-Length of 21337706 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Sep-2017 13:34:47 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[17-Sep-2017 13:34:47 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/ubuntu/workspace/assignment2.2/blank/server.php' (include_path='.:/usr/share/php') in Unknown on line 0
+[17-Sep-2017 13:34:49 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[17-Sep-2017 13:34:49 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/ubuntu/workspace/assignment2.2/blank/server.php' (include_path='.:/usr/share/php') in Unknown on line 0
